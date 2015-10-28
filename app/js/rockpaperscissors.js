@@ -74,10 +74,3 @@ function playToFive() {
 }
 
 playToFive();
-
-if (playerWins == 5){
-    console.log("Player wins 5 times");
-}
-if (computerWins == 5){
-    console.log("Computer wins 5 times");
-}
